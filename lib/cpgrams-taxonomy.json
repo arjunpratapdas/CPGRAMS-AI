@@ -1,0 +1,47 @@
+[
+  {
+    "id": "posts",
+    "target_ministry": "Ministry of Communications",
+    "department": "Department of Posts",
+    "statutory_days": 21,
+    "nodal_officer": "CPGRAMS Nodal Officer, Department of Posts",
+    "keywords": ["speed post", "post office", "parcel", "postal", "registered post", "india post", "mail delivery", "postman", "डाक", "स्पीड पोस्ट", "पार्सल"],
+    "formal_template": "To,\n{{nodal_officer}}\n{{department}}, {{target_ministry}}\n\nSubject: Grievance regarding postal services\n\nRespected Sir/Madam,\n\nI respectfully submit the following grievance for examination and appropriate action:\n{{grievance_summary}}\n\nI request a written update and redressal within the applicable CPGRAMS timeline.\n\nYours faithfully,\nCitizen\nDate: {{submission_date}}"
+  },
+  {
+    "id": "dfs-banking-pensions",
+    "target_ministry": "Ministry of Finance",
+    "department": "Department of Financial Services (Banking & Pensions)",
+    "statutory_days": 21,
+    "nodal_officer": "CPGRAMS Nodal Officer, Department of Financial Services",
+    "keywords": ["bank", "banking", "pension", "ATM", "UPI", "loan", "insurance", "account", "transaction", "FASTag", "बैंक", "पेंशन", "ऋण", "बीमा"],
+    "formal_template": "To,\n{{nodal_officer}}\n{{department}}, {{target_ministry}}\n\nSubject: Grievance regarding banking or pension services\n\nRespected Sir/Madam,\n\nI respectfully submit the following grievance for examination and appropriate action:\n{{grievance_summary}}\n\nI request a written update and redressal within the applicable CPGRAMS timeline.\n\nYours faithfully,\nCitizen\nDate: {{submission_date}}"
+  },
+  {
+    "id": "housing",
+    "target_ministry": "Ministry of Housing and Urban Affairs",
+    "department": "Ministry of Housing and Urban Affairs",
+    "statutory_days": 21,
+    "nodal_officer": "CPGRAMS Nodal Officer, Ministry of Housing and Urban Affairs",
+    "keywords": ["housing", "PMAY", "municipal", "streetlight", "waterlogging", "sanitation", "slum", "metro", "civic", "आवास", "नगरपालिका", "जलभराव", "स्ट्रीटलाइट"],
+    "formal_template": "To,\n{{nodal_officer}}\n{{department}}\n\nSubject: Grievance regarding urban housing or civic services\n\nRespected Sir/Madam,\n\nI respectfully submit the following grievance for examination and appropriate action:\n{{grievance_summary}}\n\nI request a written update and redressal within the applicable CPGRAMS timeline.\n\nYours faithfully,\nCitizen\nDate: {{submission_date}}"
+  },
+  {
+    "id": "nhai-highways",
+    "target_ministry": "Ministry of Road Transport and Highways",
+    "department": "National Highways Authority of India (NHAI)",
+    "statutory_days": 21,
+    "nodal_officer": "CPGRAMS Nodal Officer, National Highways Authority of India",
+    "keywords": ["national highway", "highway", "NHAI", "toll", "toll plaza", "pothole", "road safety", "FASTag", "expressway", "राजमार्ग", "टोल", "गड्ढा", "हाईवे"],
+    "formal_template": "To,\n{{nodal_officer}}\n{{department}}, {{target_ministry}}\n\nSubject: Grievance regarding national highway services\n\nRespected Sir/Madam,\n\nI respectfully submit the following grievance for examination and appropriate action:\n{{grievance_summary}}\n\nI request a written update and redressal within the applicable CPGRAMS timeline.\n\nYours faithfully,\nCitizen\nDate: {{submission_date}}"
+  },
+  {
+    "id": "consumer-affairs",
+    "target_ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "department": "Department of Consumer Affairs",
+    "statutory_days": 21,
+    "nodal_officer": "CPGRAMS Nodal Officer, Department of Consumer Affairs",
+    "keywords": ["consumer", "refund", "defective", "warranty", "seller", "overcharging", "misleading advertisement", "online order", "e-commerce", "उपभोक्ता", "रिफंड", "खराब उत्पाद", "वारंटी"],
+    "formal_template": "To,\n{{nodal_officer}}\n{{department}}, {{target_ministry}}\n\nSubject: Consumer grievance\n\nRespected Sir/Madam,\n\nI respectfully submit the following grievance for examination and appropriate action:\n{{grievance_summary}}\n\nI request a written update and redressal within the applicable CPGRAMS timeline.\n\nYours faithfully,\nCitizen\nDate: {{submission_date}}"
+  }
+]
